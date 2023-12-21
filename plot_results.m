@@ -1,6 +1,6 @@
 clc; clear; close all;
 
-% This function run the stochastic_model function and plot the pYAP ratio
+% This script run the stochastic_model function and plot the pYAP ratio
 % in case of small and large adheisons
 
 %### totalSteps = 
